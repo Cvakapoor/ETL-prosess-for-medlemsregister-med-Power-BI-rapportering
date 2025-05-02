@@ -1,5 +1,6 @@
 ### 🧾 Analyse av medlemsbetalinger
-  Dette prosjektet utfører datarensing og validering av medlems-, betalings- og kontingentdata for å sikre konsistens og identifisere avvik i en medlemsdatabase.
+
+Dette prosjektet utfører datarensing og validering av medlems-, betalings- og kontingentdata for å sikre konsistens og identifisere avvik i en medlemsdatabase.
 
 ## 📊 Prosjektmål
 
@@ -19,13 +20,13 @@
     
   Identifisere:
     
-    Medlemmer med feil eller manglende medlemstype
+  Medlemmer med feil eller manglende medlemstype
       
-    Dupliserte medlemmer eller betalinger
+  Dupliserte medlemmer eller betalinger
       
-    Manglende betalinger
+  Manglende betalinger
       
-    Avvik i betalingsbeløp
+  Avvik i betalingsbeløp
 
   ## Rapportering og visualisering
     
@@ -33,11 +34,11 @@
     
   Interaktivt dashboard laget i Power BI, som visualiserer:
     
-    Betalingsstatus
+  Betalingsstatus
       
-    Fordeling av medlemstyper
+  Fordeling av medlemstyper
       
-    Avvik og feilkilder
+  Avvik og feilkilder
 
 ## 📁 Datakilder
 
@@ -59,23 +60,23 @@
   
   Hent data:
   
-    Laste inn Excel-filer med pandas.read_excel.
+  Laste inn Excel-filer med pandas.read_excel.
   
   Transformer:
   
-    Rense for manglende verdier og ugyldige datoer.
+  Rense for manglende verdier og ugyldige datoer.
     
-    Beregne alder (basert på året 2017).
+  Beregne alder (basert på året 2017).
     
-    Tilordne riktig medlemstype.
+  Tilordne riktig medlemstype.
     
-    Identifisere og håndtere duplikater og mangler.
+  Identifisere og håndtere duplikater og mangler.
   
   Last / Visualiser:
   
-    Slå sammen datasett og flagge uoverensstemmelser.
+  Slå sammen datasett og flagge uoverensstemmelser.
     
-    Eksportere endelig datasett til Power BI for interaktiv visualisering.
+  Eksportere endelig datasett til Power BI for interaktiv visualisering.
 
 ✅ Status
   
