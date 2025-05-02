@@ -4,7 +4,7 @@ Dette prosjektet utfører datarensing og validering av medlems-, betalings- og k
 
 ## 📊 Prosjektmål
 
-  ## Forstå og rense data
+  ## 1. Forstå og rense data
     
   Laste inn og analysere data fra tre Excel-ark: Medlemmer, Kontingent og Betalinger.
     
@@ -12,7 +12,7 @@ Dette prosjektet utfører datarensing og validering av medlems-, betalings- og k
     
   Beregne medlemmers alder basert på fødselsdato og kontrollere medlemstype.
 
-  ## Transformasjon og validering
+  ## 2. Transformasjon og validering
     
   Tildele korrekt medlemstype (Junior, Senior, Veteran) basert på aldersregler.
     
@@ -28,7 +28,7 @@ Dette prosjektet utfører datarensing og validering av medlems-, betalings- og k
       
   Avvik i betalingsbeløp
 
-  ## Rapportering og visualisering
+  ## 3. Rapportering og visualisering
     
   Samlet og renset datasett eksporteres som en endelig rapport.
     
