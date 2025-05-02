@@ -13,31 +13,31 @@
 
   ## Transformasjon og validering
     
-    Tildele korrekt medlemstype (Junior, Senior, Veteran) basert på aldersregler.
+  Tildele korrekt medlemstype (Junior, Senior, Veteran) basert på aldersregler.
     
-    Matche hvert medlem med deres betaling og forventet kontingent basert på medlemstype og år.
+  Matche hvert medlem med deres betaling og forventet kontingent basert på medlemstype og år.
     
-    Identifisere:
+  Identifisere:
     
-      Medlemmer med feil eller manglende medlemstype
+    Medlemmer med feil eller manglende medlemstype
       
-      Dupliserte medlemmer eller betalinger
+    Dupliserte medlemmer eller betalinger
       
-      Manglende betalinger
+    Manglende betalinger
       
-      Avvik i betalingsbeløp
+    Avvik i betalingsbeløp
 
   ## Rapportering og visualisering
     
-    Samlet og renset datasett eksporteres som en endelig rapport.
+  Samlet og renset datasett eksporteres som en endelig rapport.
     
-    Interaktivt dashboard laget i Power BI, som visualiserer:
+  Interaktivt dashboard laget i Power BI, som visualiserer:
     
-      Betalingsstatus
+    Betalingsstatus
       
-      Fordeling av medlemstyper
+    Fordeling av medlemstyper
       
-      Avvik og feilkilder
+    Avvik og feilkilder
 
 ## 📁 Datakilder
 
