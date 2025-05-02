@@ -5,7 +5,7 @@
 
   ## Forstå og rense data
     
-    Laste inn og analysere data fra tre Excel-ark: Medlemmer, Kontingent og Betalinger.
+    Laste inn og analysere data fra tre Excel-ark - Medlemmer, Kontingent og Betalinger.
     
     Håndtere manglende verdier og oppdage duplikater.
     
