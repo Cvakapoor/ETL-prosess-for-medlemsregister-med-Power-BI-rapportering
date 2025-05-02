@@ -2,12 +2,12 @@
   Dette prosjektet utfører datarensing og validering av medlems-, betalings- og kontingentdata for å sikre konsistens og identifisere avvik i en medlemsdatabase.
 
 ## 📊 Prosjektmål
-# 1. Forstå og rense data
+# Forstå og rense data
     Laste inn og analysere data fra tre Excel-ark: Medlemmer, Kontingent og Betalinger.
     Håndtere manglende verdier og oppdage duplikater.
     Beregne medlemmers alder basert på fødselsdato og kontrollere medlemstype.
 
-# 2. Transformasjon og validering
+# Transformasjon og validering
     Tildele korrekt medlemstype (Junior, Senior, Veteran) basert på aldersregler.
     Matche hvert medlem med deres betaling og forventet kontingent basert på medlemstype og år.
     Identifisere:
@@ -16,7 +16,7 @@
       Manglende betalinger
       Avvik i betalingsbeløp
 
-# 3. Rapportering og visualisering
+# Rapportering og visualisering
     Samlet og renset datasett eksporteres som en endelig rapport.
     Interaktivt dashboard laget i Power BI, som visualiserer:
       Betalingsstatus
