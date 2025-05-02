@@ -86,4 +86,5 @@
   ✔️ Validering mot kontingentregler fullført
   
   ✔️ Rapport eksportert
+  
   ✔️ Visualisering fullført i Power BI
